@@ -23,7 +23,7 @@ $ gradle world
 :hello
 Hello, :world
 world !
-
+gra
 BUILD SUCCESSFUL
 
 Total time: 0.989 secs
