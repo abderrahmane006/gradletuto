@@ -29,7 +29,7 @@ BUILD SUCCESSFUL
 Total time: 0.989 secs
 ```
 
-## Construit un projet groovy
+## Construit un projet groovy // marche pas 
 ```
 $ gradle tasks
 ...
